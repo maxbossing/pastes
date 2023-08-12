@@ -1,5 +1,5 @@
 ┏━━━━━━━━━━━━━━━━┓
-┃  pastes 1.1.0  ┃
+┃  pastes 1.1.1  ┃
 ┗━━━━━━━━━━━━━━━━┛
 
 Easily access pastes.dev from the command line
@@ -44,6 +44,8 @@ CHANGELOG
 * pass flag -v/--version to display the version
 * fix some bugs with whitespace preservation
 
+=== 1.1.1 ===
+* pass -s/--save flag to save the paste in the file specified by -f/--file
 
 TODO
 ----
